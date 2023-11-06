@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="back">Back</string>
+    <string name="result_screen">Result Screen</string>
+    <string name="increment">Increment Value</string>
+    <string name="screen1">Screen1</string>
+    <string name="screen2">Screen2</string>
+    <string name="screen3">Screen3</string>
+    <string name="screen5">Screen5</string>
+    <string name="screen6">Screen6</string>
+
+
+</resources>
